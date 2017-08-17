@@ -1,2 +1,2 @@
-# tranquiladies.github.io
+http://tranquiladies.github.io
 TranquiLadies
